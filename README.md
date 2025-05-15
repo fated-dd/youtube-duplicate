@@ -2,7 +2,7 @@
 
 The dplicate is a the final project for YouTube Online Course [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 
-!(Preview of the Duplicate Page)[/static/README/Preview.jpg]
+![Preview of the Duplicate Page](/static/README/Preview.jpg)
 
 ## Main features of the duplication:
 
@@ -56,7 +56,7 @@ The dplicate is a the final project for YouTube Online Course [HTML & CSS Full C
         padding-left: 230px;
     }
 }
-'''
+```
 
 ## Offical Course Materials:
 
