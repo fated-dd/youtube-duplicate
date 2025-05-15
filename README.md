@@ -2,15 +2,17 @@
 
 The dplicate is a the final project for YouTube Online Course [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 
+!(Preview of the Duplicate Page)[/static/README/Preview.jpg]
+
 ## Main features of the duplication:
 
-• Video Grid
+• __Video Grid__
 
-• Header
+• **Header**
 
-• Sidebar
+• **Sidebar**
 
-• Tooltips for hovering on author's pfp and search icon
+• **Tooltips for hovering on author's pfp and search icon**
 
 
 ## Techniques used:
@@ -22,6 +24,39 @@ The dplicate is a the final project for YouTube Online Course [HTML & CSS Full C
 3. Position: fixed, relative, absolute
 
 4. Responsive Design
+
+## Additional Features:
+
+1. The Sidebar will expand if the page is >= 1200px wide
+
+```css
+@media (min-width:1200px) {
+    .sidebar-div{
+        width: 200px;
+        padding-left: 15px;
+        align-items:start;
+        justify-content:top;
+        row-gap: 20px;
+    }
+
+    .sidebar-link{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        column-gap: 20px;
+        text-align: left;
+        font-size: 15px;
+    }
+
+    .sidebar-icon{
+        width: 30px;
+    }
+
+    body{
+        padding-left: 230px;
+    }
+}
+'''
 
 ## Offical Course Materials:
 

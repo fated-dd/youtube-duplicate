@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="124.57503mm"
+   height="124.57503mm"
+   viewBox="0 0 124.57503 124.57503"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Nijisanji (Icon).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="230.28046"
+     inkscape:cy="446.50992"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="ab24fd86-dbe5-4d7c-81c0-32ce63267e86">
+      <path
+         d="M 66.67,0 V 58.33 H 125 A 58.34,58.34 0 0 0 66.67,0 Z m -8.34,8.33 a 58.34,58.34 0 0 0 -47.71,91.9 L 0,125 24.77,114.38 a 58.34,58.34 0 0 0 91.9,-47.71 H 58.33 Z M 31.77,64.58 A 16.15,16.15 0 1 1 38.68,33.86 H 38.54 A 8.86,8.86 0 1 0 47.29,44 16.1,16.1 0 0 1 31.77,64.58 Z"
+         style="fill:none"
+         id="path824" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.33139,-30.140871)">
+    <g
+       id="b9943a9d-c196-4549-a66d-ddbfccff0fba"
+       data-name="レイヤー 1"
+       transform="matrix(0.9966002,0,0,0.9966002,44.33139,30.140871)">
+      <circle
+         cx="32.889999"
+         cy="48.209999"
+         r="18.35"
+         style="fill:#ffffff"
+         id="circle829" />
+      <g
+         clip-path="url(#ab24fd86-dbe5-4d7c-81c0-32ce63267e86)"
+         id="g847">
+        <path
+           d="m 66.67,8.33 a 50,50 0 0 1 50,50 H 125 A 58.34,58.34 0 0 0 66.67,0 Z"
+           style="fill:#db062c"
+           id="path831" />
+        <path
+           d="m 66.67,16.67 a 41.66,41.66 0 0 1 41.66,41.66 h 8.34 a 50,50 0 0 0 -50,-50 z"
+           style="fill:#ef7a00"
+           id="path833" />
+        <path
+           d="M 66.67,25 A 33.33,33.33 0 0 1 100,58.33 h 8.33 A 41.66,41.66 0 0 0 66.67,16.67 Z"
+           style="fill:#f3eb1c"
+           id="path835" />
+        <path
+           d="m 66.67,33.33 a 25,25 0 0 1 25,25 H 100 A 33.33,33.33 0 0 0 66.67,25 Z"
+           style="fill:#009c4d"
+           id="path837" />
+        <path
+           d="m 66.67,41.67 a 16.66,16.66 0 0 1 16.66,16.66 h 8.34 a 25,25 0 0 0 -25,-25 z"
+           style="fill:#4fc2f1"
+           id="path839" />
+        <path
+           d="M 66.67,50 A 8.33,8.33 0 0 1 75,58.33 h 8.33 A 16.66,16.66 0 0 0 66.67,41.67 Z"
+           style="fill:#0065b2"
+           id="path841" />
+        <path
+           d="M 66.67,58.33 H 75 A 8.33,8.33 0 0 0 66.67,50 Z"
+           style="fill:#643791"
+           id="path843" />
+        <path
+           d="M 58.33,66.67 V 8.33 a 58.34,58.34 0 0 0 -47.71,91.9 L 0,125 24.77,114.38 a 58.34,58.34 0 0 0 91.9,-47.71 z M 31.77,64.58 A 16.15,16.15 0 1 1 38.68,33.86 H 38.54 A 8.86,8.86 0 1 0 47.29,44 16.1,16.1 0 0 1 31.77,64.58 Z"
+           style="fill:#2d4b71"
+           id="path845" />
+      </g>
+    </g>
+  </g>
+</svg>
