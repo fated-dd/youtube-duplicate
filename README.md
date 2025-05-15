@@ -1,6 +1,6 @@
 # YouTube Duplicate from SuperSimpleDev
 
-This is a duplicate of YouTube for [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+This is a duplicate YouTube page for [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 
 <br/>
 
