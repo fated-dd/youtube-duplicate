@@ -21,6 +21,8 @@ The dplicate is a the final project for YouTube Online Course [HTML & CSS Full C
 
 3. Position: fixed, relative, absolute
 
+4. Responsive Design
+
 ## Offical Course Materials:
 
 [HTML and CSS Course Materials](https://github.com/SuperSimpleDev/html-css-course)
