@@ -1,6 +1,8 @@
 # YouTube Duplicate from SuperSimpleDev
 
-The dplicate is a the final project for YouTube Online Course [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+This is a duplicate of YouTube for [HTML & CSS Full Course - Beginner to Pro](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+
+<br/>
 
 ![Preview of the Duplicate Page](/static/README/Preview.jpg)
 
